@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7b51486a45b71b14e8dce246b0dc9874
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dyno
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e15355e34f69a6643b9abf85c43ccb0a, type: 3}
+  - {fileID: 12800000, guid: 264cb76d9915fb6438637dd1c2e60aa0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

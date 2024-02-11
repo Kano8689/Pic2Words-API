@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a8964af7bcf5b6f4bb7add0f8dcf60bf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sheep Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b7f06d98a83c7324fa2290e6e9969628, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
